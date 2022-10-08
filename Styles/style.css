@@ -1,0 +1,56 @@
+*{
+    font-family: montserrat, sans-serif;
+    box-sizing: border-box;
+}
+
+/* Navbar*/
+#tickets {
+    color: darkgreen;
+}
+
+
+   /*Descripción del evento*/ 
+#textosection {
+    background: rgba(0,0,0,0.6) url(../resources/img/hawaii.jpg);
+    background-size: cover;
+    font-size: 20px;
+    background-position: center;
+    color: white;
+    text-align: right;
+    padding:13%;
+    background-blend-mode: darken;
+}
+
+/*Oradores*/
+#oradores {
+    color: black;
+    text-align: center;
+    width: 100%;
+    margin-top: 1%;
+}
+
+/*Descripcion Ubicación Conf*/
+
+
+/* Registro de Oradores */
+
+
+.encabezadoform {
+    line-height: 10px;
+    width: 100%;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    
+}
+
+
+ /* FOOTER */
+.footer { 
+    background-color:rgb(4, 30, 41, 0.836);
+    background-image: var(--bs-gradient);
+
+}   
+#links{
+     color: white;
+} 
