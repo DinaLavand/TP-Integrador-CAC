@@ -49,8 +49,16 @@
 .footer { 
     background-color:rgb(4, 30, 41, 0.836);
     background-image: var(--bs-gradient);
-
+    
 }   
+
+.footer2 {
+    background-color:rgb(4, 30, 41, 0.836);
+    background-image: var(--bs-gradient);
+    
+    bottom:0;
+    width: 100%;
+}
 #links{
      color: white;
 } 
